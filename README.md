@@ -2,7 +2,7 @@
 
 **💼 Senior Researcher** At the **Peace Research Institute Oslo (PRIO)**, where I lead advanced research initiatives focused on conflict forecasting.
 
-**🚀 Team Leader** Team Leader for **Model Development and Deployment** (MD&D) at the **Violence Impact and Early Warning System (VIEWS)**, delivering actionable insights to humanitarian organizations.
+**🚀 Head** of **Model Development and Deployment** (MD&D) at the **Violence Impact and Early Warning System (VIEWS)**, delivering actionable insights to humanitarian organizations.
 
 🔍 **Current Focus Areas:**
 - **[HydraNet:](https://github.com/prio-data/views_pipeline/tree/main/models/purple_alien)** Pioneering tempo-spatial learning using U-net + LSTM architectures to enhance conflict forecasting.
